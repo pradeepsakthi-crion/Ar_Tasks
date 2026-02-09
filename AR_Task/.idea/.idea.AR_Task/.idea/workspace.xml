@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2eb4d63b-93a7-4249-ba74-7faed1f86953" name="Changes" comment="" />
+    <list default="true" id="2eb4d63b-93a7-4249-ba74-7faed1f86953" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AR_Task/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AR_Task/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Prefabs/Teddy/Teddy.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Crion/ARTask/Prefabs/Teddy/Teddy.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Scenes/Scene_2/ARPlacement.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Crion/ARTask/Scenes/Scene_2/ARPlacement.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Settings/Mobile_RPAsset.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Crion/ARTask/Settings/Mobile_RPAsset.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Settings/UniversalRenderPipelineGlobalSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Crion/ARTask/Settings/UniversalRenderPipelineGlobalSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,9 +25,9 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Crion/ARTask/Scenes/Scene_1/SampleScene.unity" root0="FORCE_HIGHLIGHTING" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="39QGzdVQaVtPX2mDG2haCR75YD2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -30,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "Place-a-3D-object-on-top",
+    "git-widget-placeholder": "3D-placement-AR",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -86,6 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1770621146264</updated>
       <workItem from="1770621148868" duration="398000" />
+      <workItem from="1770630540957" duration="2118000" />
     </task>
     <servers />
   </component>
