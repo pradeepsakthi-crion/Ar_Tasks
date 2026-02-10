@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2eb4d63b-93a7-4249-ba74-7faed1f86953" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AR_Task/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AR_Task/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Scripts/TapSpawnAndRotate.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Scripts/TapSpawnAndRotate.cs.meta" beforeDir="false" />
-    </list>
+    <list default="true" id="2eb4d63b-93a7-4249-ba74-7faed1f86953" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +88,7 @@
       <workItem from="1770621148868" duration="398000" />
       <workItem from="1770630540957" duration="2118000" />
       <workItem from="1770697521326" duration="2660000" />
-      <workItem from="1770702267539" duration="9551000" />
+      <workItem from="1770702267539" duration="10151000" />
     </task>
     <servers />
   </component>
