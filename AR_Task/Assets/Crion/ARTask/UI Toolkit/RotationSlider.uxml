@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/Crion/ARTask/UI%20Toolkit/USS/slider.uss?fileID=7433441132597879392&amp;guid=9bd7bff48b89a864092e4dd1843c5ff1&amp;type=3#slider" />
+    <ui:VisualElement style="flex-grow: 1; position: absolute; height: 219px; width: 530px; top: 1678px; left: 10px; bottom: 24px; right: 541px; display: flex; color: rgb(255, 0, 0); background-color: rgb(59, 54, 115); border-top-left-radius: 30px; border-top-right-radius: 30px; border-bottom-right-radius: 30px; border-bottom-left-radius: 30px;">
+        <ui:Slider label="Slider" value="0" high-value="360" name="rotationSlider" style="position: absolute; width: 477px; top: 99px; left: 28px; bottom: 55px; right: 18px;" />
+        <ui:Label text="Object Rotation" style="display: flex; position: absolute; top: 22px; left: 185px; -unity-font-definition: url(&quot;project://database/Library/unity%20default%20resources?fileID=10102&amp;guid=0000000000000000e000000000000000&amp;type=0#LegacyRuntime&quot;); font-size: 20px; -unity-font-style: bold; color: rgb(255, 255, 255);" />
+        <ui:VisualElement style="flex-grow: 1; position: absolute; height: 1px; width: 466px; top: 71px; left: 30px; background-color: rgb(255, 255, 255);" />
+    </ui:VisualElement>
+</ui:UXML>
