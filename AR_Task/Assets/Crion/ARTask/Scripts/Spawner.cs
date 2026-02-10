@@ -4,7 +4,7 @@ using UnityEngine.XR.ARFoundation;
 using UnityEngine.XR.ARSubsystems;
 using UnityEngine.UIElements;
 
-public class TapSpawnAndRotate : MonoBehaviour
+public class Spawner : MonoBehaviour
 {
     public GameObject spawnPrefab;
     public Vector3 fixedScale = new Vector3(0.2f, 0.2f, 0.2f);
