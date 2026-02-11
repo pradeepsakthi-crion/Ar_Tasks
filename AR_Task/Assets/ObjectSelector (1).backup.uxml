@@ -1,0 +1,8 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Crion/ARTask/UI%20Toolkit/USS/ObjectSelector.uss?fileID=7433441132597879392&amp;guid=32a00f1cb12c89146b242de4044e7477&amp;type=3" />
+    <ui:VisualElement style="flex-grow: 1; position: absolute; height: 180px; width: 258px; top: 1731px; left: 815px; right: auto; bottom: auto; background-color: rgba(8, 7, 116, 0.89); border-top-left-radius: 35px; border-top-right-radius: 35px; border-bottom-right-radius: 35px; border-bottom-left-radius: 35px; border-top-color: rgb(159, 155, 155); border-top-width: 0; border-right-width: 0; border-bottom-width: 0; border-left-width: 0; display: flex;">
+        <ui:Label text="Object Selector" style="position: absolute; top: 0; left: 26px; width: 203px; align-items: stretch; align-self: center; -unity-font-style: bold; color: rgb(255, 240, 240); -unity-text-align: upper-center;" />
+        <ui:VisualElement style="flex-grow: 1; position: absolute; height: 2px; width: 255px; top: 41px; left: 2px; background-color: rgb(255, 255, 255);" />
+        <ui:RadioButtonGroup label="Radio Button Group" choices="CUBE,CAPSULE" style="position: absolute; top: 56px; left: 21px; width: 204px;" />
+    </ui:VisualElement>
+</ui:UXML>
