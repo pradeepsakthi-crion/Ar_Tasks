@@ -1887,7 +1887,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_PlanePrefab: {fileID: 2793365414612482890, guid: aa46c5a45f30ddd48a0dfadde647703c, type: 3}
-  m_DetectionMode: -1
+  m_DetectionMode: 1
 --- !u!114 &1813437508
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1919,7 +1919,7 @@ MonoBehaviour:
   spawnPrefabs:
   - {fileID: 2774517979085412869, guid: 8277e6ea7ef07a14ba660e5b3a088141, type: 3}
   - {fileID: 2774517979085412869, guid: af7af0b7b58ac2c41b22b5073e3e4e5a, type: 3}
-  fixedScale: {x: 0.1, y: 0.1, z: 0.1}
+  fixedScale: {x: 0.2, y: 0.2, z: 0.2}
   ObjectButtons:
   - {fileID: 1365455160}
   - {fileID: 109423490}
