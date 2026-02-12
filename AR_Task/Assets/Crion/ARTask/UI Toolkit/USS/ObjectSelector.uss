@@ -1,0 +1,23 @@
+.unity-base-field__label {
+    display: none;
+}
+
+.unity-base-field__input {
+    -unity-font-style: bold;
+    position: relative;
+    -unity-font-definition: url("project://database/Library/unity%20default%20resources?fileID=10102&guid=0000000000000000e000000000000000&type=0#LegacyRuntime");
+    -unity-text-align: upper-left;
+}
+
+.prefab-btn {
+    background-color: #444444;
+    color: white;
+    border-radius: 6px;
+    border-width: 2px;
+    border-color: transparent;
+}
+
+.prefab-btn__selected {
+    background-color: #00AEEF;
+    border-color: white;
+}
