@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2eb4d63b-93a7-4249-ba74-7faed1f86953" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AR_Task/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AR_Task/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Prefabs/ObjectPrefab/Cube.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Crion/ARTask/Prefabs/ObjectPrefab/Cube.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Prefabs/ObjectPrefab/Cylinder.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Crion/ARTask/Prefabs/ObjectPrefab/Cylinder.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Scenes/Scene_3/ARIntractScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Crion/ARTask/Scenes/Scene_3/ARIntractScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Scripts/ARObjectManipulator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Crion/ARTask/Scripts/ARObjectManipulator.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-    </list>
+    <list default="true" id="2eb4d63b-93a7-4249-ba74-7faed1f86953" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +93,7 @@
       <workItem from="1770785105439" duration="8007000" />
       <workItem from="1770793830522" duration="13894000" />
       <workItem from="1770702267539" duration="10151000" />
-      <workItem from="1770868876122" duration="1522000" />
+      <workItem from="1770868876122" duration="2171000" />
     </task>
     <servers />
   </component>
