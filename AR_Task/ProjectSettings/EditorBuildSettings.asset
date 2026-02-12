@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Crion/ARTask/Scenes/Scene_3/ARIntractScene.unity
-    guid: f510f20accbc0da4bbef2b1d15665c31
+    path: Assets/Crion/ARTask/Scenes/Scene_4/ARObjectPickerScene.unity
+    guid: bd0741b1e03f49048a6ac3f3c2303662
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a10bcfc2f3df42b4b8b3d6b59768009e, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}

@@ -1,0 +1,12 @@
+.unity-label {
+    display: none;
+}
+
+.unity-base-slider__dragger {
+    display: flex;
+    width: 24px;
+    height: 52px;
+    position: absolute;
+    top: auto;
+    bottom: -13px;
+}
