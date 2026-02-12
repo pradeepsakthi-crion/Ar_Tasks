@@ -4,7 +4,6 @@ public class ARObjectManipulator : MonoBehaviour
 {
     public static ARObjectManipulator SelectedObject;
 
-    private Vector3 offset;
     private Camera arCamera;
 
     private float initialDistance;
@@ -20,6 +19,27 @@ public class ARObjectManipulator : MonoBehaviour
 
     void Update()
     {
+        // -------- TAP TO SELECT --------
+        if (Input.touchCount == 1)
+        {
+            Touch touch = Input.GetTouch(0);
+
+            if (touch.phase == TouchPhase.Began)
+            {
+                Ray ray = arCamera.ScreenPointToRay(touch.position);
+
+                if (Physics.Raycast(ray, out RaycastHit hit))
+                {
+                    ARObjectManipulator obj = hit.collider.GetComponent<ARObjectManipulator>();
+
+                    if (obj != null)
+                    {
+                        SelectedObject = obj;
+                    }
+                }
+            }
+        }
+
         // Only allow interaction if this object is selected
         if (SelectedObject != this)
             return;
@@ -36,8 +56,7 @@ public class ARObjectManipulator : MonoBehaviour
 
                 if (plane.Raycast(ray, out float distance))
                 {
-                    Vector3 hitPoint = ray.GetPoint(distance);
-                    transform.position = hitPoint;
+                    transform.position = ray.GetPoint(distance);
                 }
             }
         }
@@ -54,16 +73,15 @@ public class ARObjectManipulator : MonoBehaviour
             {
                 initialDistance = currentDistance;
                 initialScale = transform.localScale;
-
                 initialAngle = GetAngle(t0.position, t1.position);
             }
             else
             {
-                // ---- SCALE ----
+                // SCALE
                 float scaleFactor = currentDistance / initialDistance;
                 transform.localScale = initialScale * scaleFactor;
 
-                // ---- ROTATE ----
+                // ROTATE
                 float currentAngle = GetAngle(t0.position, t1.position);
                 float angleDelta = currentAngle - initialAngle;
 
@@ -79,11 +97,5 @@ public class ARObjectManipulator : MonoBehaviour
     {
         Vector2 dir = p2 - p1;
         return Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
-    }
-
-    // Call this when tapping object
-    void OnMouseDown()
-    {
-        SelectedObject = this;
     }
 }
