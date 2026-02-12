@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2eb4d63b-93a7-4249-ba74-7faed1f86953" name="Changes" comment="" />
+    <list default="true" id="2eb4d63b-93a7-4249-ba74-7faed1f86953" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AR_Task/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AR_Task/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Models/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Models/Materials/Material_AO.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Models/Materials/Material_AO.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Models/Materials/Material_albedo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Models/Materials/Material_albedo.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Models/Materials/Material_normal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Models/Materials/Material_normal.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Models/Materials/Material_roughness.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Models/Materials/Material_roughness.jpg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Models/Teddy.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Models/Teddy.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Models/quit.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Models/quit.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Models/teddy1withpivot.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Models/teddy1withpivot.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Models/teddy2withpivot.fbx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/Models/teddy2withpivot.fbx.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Crion/ARTask/UI Toolkit/RotationSlider.uxml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Crion/ARTask/UI Toolkit/RotationSlider.uxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +55,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;ARIntractaction&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;ARObjectPicker&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -93,7 +117,7 @@
       <workItem from="1770785105439" duration="8007000" />
       <workItem from="1770793830522" duration="13894000" />
       <workItem from="1770702267539" duration="10151000" />
-      <workItem from="1770868876122" duration="2171000" />
+      <workItem from="1770868876122" duration="10079000" />
     </task>
     <servers />
   </component>
