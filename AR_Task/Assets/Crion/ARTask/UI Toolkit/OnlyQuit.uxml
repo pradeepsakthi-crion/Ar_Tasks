@@ -1,0 +1,5 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="BasePanel" style="flex-grow: 1; position: absolute; height: 168px; width: 299px; top: 0; left: 783px;">
+        <ui:Button text="Return" name="returnButton" style="position: absolute; top: 38px; left: 96px; width: 128px; height: 80px; border-top-left-radius: 16px; border-top-right-radius: 16px; border-bottom-right-radius: 16px; border-bottom-left-radius: 16px; -unity-font-style: bold; font-size: 25px; background-color: rgba(0, 66, 255, 0.4);" />
+    </ui:VisualElement>
+</ui:UXML>
